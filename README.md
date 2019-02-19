@@ -1,3 +1,3 @@
 # Cartpole_ES
 Simple evolution strategy on Cartpole
-You can play with parameters and find better setting of them.
+You can try to find a better set of hyperparameters.
